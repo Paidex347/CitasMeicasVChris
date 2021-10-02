@@ -1,0 +1,17 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 2/10/2021, 10:38:04 AM
+    Author     : ANIMA09
+*/
+
+.btnSize{
+    width: 512px;
+    height: 512px;
+}
+btnClient{
+    background-image: url("assets/img/avatardefault_92824.png");
+  
+}

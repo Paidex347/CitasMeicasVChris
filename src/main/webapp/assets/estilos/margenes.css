@@ -1,0 +1,31 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 2/10/2021, 10:07:21 AM
+    Author     : ANIMA09
+*/
+
+.margenMenu{
+    margin: 25px 25px;
+}
+
+.margenMenu_02{
+    width: 800px;
+    background-color: rgb(211,242,246);
+}
+
+.imageCustom{
+   width: 300px;
+   height: 300px;
+    
+}
+
+.imageCustom:hover{
+     background-color: #b6d4fe;
+}
+
+.imageCustom:active{
+     background-color: #20c997;
+}
