@@ -8,10 +8,10 @@ Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css
 */
 
 .margenMenu{
-    margin: 25px;
-    padding-left: 500px;
-    padding-right: 500px;
-    background-color: rgb(211,242,246);
+   padding-left: 250px;
+   padding-right: 250px;
+   background-color: rgb(211,242,246);
+
 }
 
 .margenMenu_02{
@@ -20,6 +20,8 @@ Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css
     
 }
 
+
+
 .imageCustom{
    width: 300px;
    height: 300px;
@@ -27,7 +29,9 @@ Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css
 }
 
 .imageCustom:hover{
-     background-color: #b6d4fe;
+    transform: scale(1.1);
+    transition-property: transform;
+    transition-duration: 0.1s;
 }
 
 .imageCustom:active{
@@ -41,4 +45,9 @@ Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css
 btnClient{
     background-image: url("assets/img/avatardefault_92824.png");
   
+}
+
+
+.fuente {
+    font-family:  "Helvetica", sans-serif;
 }
